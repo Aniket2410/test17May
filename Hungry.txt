@@ -1,5 +1,5 @@
 are you hungry ?
 if yes
-east samosa
+eat samosa
 else
 do your home work!
