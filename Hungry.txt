@@ -1,5 +1,5 @@
 are you hungry ?
 if yes
-eat samosa
+eat samosaor vaddapaav
 else
 do your home work!
